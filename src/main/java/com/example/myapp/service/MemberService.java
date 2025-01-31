@@ -9,7 +9,7 @@ import com.example.myapp.repository.MemberRepository;
 
 import java.util.List;
 import java.util.Optional;
-
+// ss
 @Service
 public class MemberService {
 
